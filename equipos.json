@@ -1,0 +1,210 @@
+[
+    {
+        "id": "EQP001",
+        "nombre": "America de Cali",
+        "ciudad": "Cali",
+        "dt": "Jorge da Silva",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 33,
+            "partidos_jugados": 15,
+            "ganados": 10,
+            "empatados": 3,
+            "perdidos": 2,
+            "goles_favor": 23,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP002",
+        "nombre": "Once Caldas",
+        "ciudad": "Manizales",
+        "dt": "Hernan Dario Herrera",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 30,
+            "partidos_jugados": 15,
+            "ganados": 9,
+            "empatados": 3,
+            "perdidos": 3,
+            "goles_favor": 20,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP003",
+        "nombre": "Santa Fe",
+        "ciudad": "Bogota",
+        "dt": "Pablo Peirano",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 29,
+            "partidos_jugados": 15,
+            "ganados": 8,
+            "empatados": 5,
+            "perdidos": 2,
+            "goles_favor": 20,
+            "goles_contra": 10
+        }
+    },
+    {
+        "id": "EQP004",
+        "nombre": "Atletico Nacional",
+        "ciudad": "Medellin",
+        "dt": "Efrain Juarez Valdez",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 29,
+            "partidos_jugados": 15,
+            "ganados": 9,
+            "empatados": 2,
+            "perdidos": 4,
+            "goles_favor": 24,
+            "goles_contra": 16
+        }
+    },
+    {
+        "id": "EQP005",
+        "nombre": "Millonarios",
+        "ciudad": "Bogota",
+        "dt": "Alberto Gamero",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 27,
+            "partidos_jugados": 15,
+            "ganados": 8,
+            "empatados": 3,
+            "perdidos": 4,
+            "goles_favor": 21,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP006",
+        "nombre": "Tolima",
+        "ciudad": "Ibague",
+        "dt": "David Gonzalez",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 25,
+            "partidos_jugados": 15,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 19,
+            "goles_contra": 10
+        }
+    },
+    {
+        "id": "EQP007",
+        "nombre": "Junior",
+        "ciudad": "Barranquilla",
+        "dt": "Cesar Farias",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 25,
+            "partidos_jugados": 15,
+            "ganados": 7,
+            "empatados": 4,
+            "perdidos": 4,
+            "goles_favor": 23,
+            "goles_contra": 16
+        }
+    },
+    {
+        "id": "EQP008",
+        "nombre": "Pasto",
+        "ciudad": "Pasto",
+        "dt": "Gustavo Florentin",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 23,
+            "partidos_jugados": 15,
+            "ganados": 7,
+            "empatados": 2,
+            "perdidos": 6,
+            "goles_favor": 16,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP009",
+        "nombre": "Fortaleza",
+        "ciudad": "Bogota",
+        "dt": "Sebastian Oliveros",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 21,
+            "partidos_jugados": 15,
+            "ganados": 5,
+            "empatados": 6,
+            "perdidos": 4,
+            "goles_favor": 19,
+            "goles_contra": 17
+        }
+    },
+    {
+        "id": "EQP010",
+        "nombre": "Bucaramanga",
+        "ciudad": "Bucaramanga",
+        "dt": "Rafael Dudamel",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 21,
+            "partidos_jugados": 15,
+            "ganados": 6,
+            "empatados": 3,
+            "perdidos": 6,
+            "goles_favor": 13,
+            "goles_contra": 13
+        }
+    },
+    {
+        "id": "EQP011",
+        "nombre": "Prueba",
+        "ciudad": "Manizales",
+        "dt": "Julio Cesar Zuluaga",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 49,
+            "partidos_jugados": 19,
+            "ganados": 16,
+            "empatados": 1,
+            "perdidos": 2,
+            "goles_favor": 34,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP012",
+        "nombre": "Medellin",
+        "ciudad": "Medellin",
+        "dt": "Alejandro Restrepo",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 19,
+            "partidos_jugados": 15,
+            "ganados": 4,
+            "empatados": 7,
+            "perdidos": 4,
+            "goles_favor": 15,
+            "goles_contra": 12
+        }
+    },
+    {
+        "id": "EQP013",
+        "nombre": "Deportivo Pereira",
+        "ciudad": "Pereira",
+        "dt": "Luis Fernando Suarez",
+        "jugadores": [],
+        "estadisticas": {
+            "puntos": 19,
+            "partidos_jugados": 15,
+            "ganados": 5,
+            "empatados": 4,
+            "perdidos": 6,
+            "goles_favor": 12,
+            "goles_contra": 13
+        }
+    }
+]
